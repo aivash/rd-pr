@@ -2,27 +2,24 @@
 uid: rd.andrey-ivashentsev
 name: Andrey Ivashentsev
 metadata:
-  title: Andrey Ivashentsev - Microsoft Regional Director
-  description: Chief Innovation Officer and Microsoft Regional Director in Moscow, Russia
+  title: Andrey Ivashentsev - Microsoft Regional Director  
+  description: Independent Mixed Reality Expert and Microsoft Regional Director in Moscow, Russia
 remarks: |
   ## Bio
   Hello, I’m Andrey.
   
-  I’m a Chief Innovation Officer at Game Insight and Regional Director at
-  Microsoft.
+  I’m an independent Mixed Reality Expert, Consultant, Entrepreneur and Sparkling Wine Enthusiast at my free time.
+  Currently i'm working on various projects in Mixed Reality, Game Development, Cloud Comptuting and other innovative areas.
+  I love sharing my experience with local and global community through speaking sessions, articles, podcasts and mentoring. 
   
-  My duties are about landing new innovative technologies into our games and
-  sharing our experience with developer community, focusing on areas like AR\VR
-  & Holograms, Game Development & Cloud Computing.
+  Feel free to contact me if you want to ask something on invite somewhere.
   
-  You can ask me something or invite me to your event with a click on the button
-  above.
-  
-  <https://linkedin.com/in/aivashentsev>
-tagline: Innovation / Technology
+tagline: Mixed Reality / Innovation / Technology
 image:
   alt: "Andrey Ivashentsev"
   src: media/profiles/andrey-ivashentsev.jpg
+facebook: http://fb.me/aivashentsev
+linkedin: https://www.linkedin.com/in/aivashentsev
 location:
   display: Moscow, Russia
   lat: 55.756961
